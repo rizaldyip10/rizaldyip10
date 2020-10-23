@@ -22,6 +22,6 @@ Beside Programming, my hobbies are:
 3. Watch and Read Anime
 4. Sports
 
-You can also find me in:
+You can find me in:
 1. LinkedIn: https://www.linkedin.com/in/rizaldy-iman-putra-a17b0317a/
 2. Twitter : @ItsRizaldy
