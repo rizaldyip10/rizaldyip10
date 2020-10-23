@@ -19,7 +19,7 @@ My name is Rizaldy Iman Putra. I am 21 years old. Currently studying at Aerospac
 Beside Programming, my hobbies are:
 1. Gaming
 2. Play and Hear Music
-3. Watch and Read Anime
+3. Watch and Read
 4. Sports
 
 You can find me in:
