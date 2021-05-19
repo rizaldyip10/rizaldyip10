@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Rizaldy Iman Putra. I am 21 years old. Currently studying at Aerospace Engineering Bandung Institute of Technology. 6 months ago i started learning coding and my intrest to coding start growing ever since. The programming language that i study is python, but i also intrest to study C++ and java.
+My name is Rizaldy Iman Putra. Currently studying at Aerospace Engineering Bandung Institute of Technology. 6 months ago i started learning coding and my intrest to coding start growing ever since. The programming language that i study is python, but i also intrest to study C++ and java.
 
 Beside Programming, my hobbies are:
 1. Gaming
