@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Rizaldy Iman Putra. Currently studying at Aerospace Engineering Bandung Institute of Technology. 6 months ago i started learning coding and my intrest to coding start growing ever since. Currently studying HTML, CSS, and Javascript and aiming to be Front-end Developer/Web Developer/Fullstack Developer in the future.
+My name is Rizaldy Iman Putra, a Fullstack Developer.
+
+Tech-stack:
+1. JavaScirpt/TypeScript,
+2. React.js/Next.js
+3. MySql
+4. Mongoose
+5. Prisma.js
+6. TailwindCSS
 
 Beside Programming, my hobbies are:
 1. Gaming
