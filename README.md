@@ -8,4 +8,5 @@ Passionate Fullstack Developer with expertise in MERN stack development. Honed m
 
 ## 👤 Contact Information
 ✉️ Email: [rizaldyimanputra@gmail.com] 🌐 LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/rizaldy-iman-putra-a17b0317a/)]
+
 Feel free to contact for job opportunities or colaboration!
