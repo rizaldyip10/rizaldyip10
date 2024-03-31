@@ -1,35 +1,11 @@
-### Hello World 
+# Hello Github!
 
-<!--
-**rizaldyip10/rizaldyip10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Summary
+Passionate Fullstack Developer with expertise in MERN stack development. Honed my developer skills through studies at Purwadhika Digital School. I have a solid fundamental for JavaScript, TypeScript, and Java. Experience in creating web using React.js and Next.js for frontend development, and Express.js for backend development.
 
-Here are some ideas to get you started:
+### Development Stack
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-My name is Rizaldy Iman Putra, a Fullstack Developer.
-
-Tech-stack:
-1. JavaScirpt/TypeScript,
-2. React.js/Next.js
-3. MySql
-4. Mongoose
-5. Prisma.js
-6. TailwindCSS
-
-Beside Programming, my hobbies are:
-1. Gaming
-2. Play and Hear Music
-3. Watch and Read
-4. Sports
-
-You can find me in:
-1. LinkedIn: https://www.linkedin.com/in/rizaldy-iman-putra-a17b0317a/
-2. Instagram : @rizaldyip10
+## 👤 Contact Information
+✉️ Email: [rizaldyimanputra@gmail.com] 🌐 LinkedIn: ![LinkedIn Profile](https://www.linkedin.com/in/rizaldy-iman-putra-a17b0317a/)
+Feel free to contact for job opportunities or colaboration!
