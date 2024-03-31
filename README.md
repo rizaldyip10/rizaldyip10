@@ -7,6 +7,6 @@ Passionate Fullstack Developer with expertise in MERN stack development. Honed m
 [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
 ## 👤 Contact Information
-✉️ Email: [rizaldyimanputra@gmail.com] 🌐 LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/rizaldy-iman-putra-a17b0317a/)]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rizaldyimanputra@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizaldy-iman-putra-a17b0317a/)
 
 Feel free to contact for job opportunities or colaboration!
