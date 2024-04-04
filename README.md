@@ -9,3 +9,5 @@ Passionate Fullstack Developer with expertise in MERN stack development. Honed m
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rizaldyimanputra@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizaldy-iman-putra-a17b0317a/)
 
 Feel free to contact for job opportunities or colaboration!
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rizaldyip10&theme=dark&background=000000)](https://git.io/streak-stats)
