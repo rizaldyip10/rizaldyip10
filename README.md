@@ -10,4 +10,6 @@ Passionate Fullstack Developer with expertise in MERN stack development. Honed m
 
 Feel free to contact for job opportunities or colaboration!
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rizaldyip10&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rizaldyip10&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizaldyip10)](https://github.com/anuraghazra/github-readme-stats)
