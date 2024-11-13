@@ -17,7 +17,7 @@ Other:\
 
 ### 👤 Contact Information
 Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com) rizaldyimanputra@gmail.com\
-LinkedIn: [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizaldy-iman-putra-a17b0317a/) Rizaldy Iman Putra\
+LinkedIn: [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizaldy-iman-putra-a17b0317a/) Rizaldy Iman Putra
 
 Feel free to contact for job opportunities or colaboration!
 
