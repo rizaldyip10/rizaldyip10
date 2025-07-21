@@ -1,6 +1,6 @@
 # Hello Github!
 
-Passionate Fullstack Developer with expertise in MERN stack development. Honed my developer skills through studies at Purwadhika Digital School. I have a solid fundamental for JavaScript, TypeScript, and Java. Experience in creating web using React.js and Next.js for frontend development, and Express.js for backend development.
+Passionate Fullstack Developer with expertise in MERN stack development. Honed my developer skills through studies at Purwadhika Digital School. I have a solid fundamental for JavaScript, TypeScript, and Java. Experience in creating web using React.js and Next.js for frontend development, and Express.js & Java Spring Boot for backend development.
 
 ### :hammer_and_wrench: Development Stack
 Programming Language:\
