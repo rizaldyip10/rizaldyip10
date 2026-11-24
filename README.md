@@ -75,7 +75,7 @@ I'm a fullstack developer working mainly with **TypeScript** and **Java**. On th
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizaldyip10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizaldyip10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizaldyip10&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top languages" />
 </p>
 
