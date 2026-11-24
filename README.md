@@ -1,27 +1,101 @@
-# Hello Github!
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rizaldy%20Iman%20Putra&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Software%20Engineering%20Master's%20Student&descAlignY=58&descSize=16" alt="header" />
+</p>
 
-Passionate Fullstack Developer with expertise in MERN stack development. Honed my developer skills through studies at Purwadhika Digital School. I have a solid fundamental for JavaScript, TypeScript, and Java. Experience in creating web using React.js and Next.js for frontend development, and Express.js & Java Spring Boot for backend development.
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=560&lines=Fullstack+Developer+(React+%7C+Next.js+%7C+Spring+Boot);Building+with+TypeScript+and+Java;Researching+search-based+test+prioritization;Open+to+opportunities+and+collaboration" alt="Typing SVG" />
+  </a>
+</p>
 
-### :hammer_and_wrench: Development Stack
-Programming Language:\
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+<!-- Quick links -->
+<p align="center">
+  <a href="mailto:rizaldyimanputra@gmail.com"><img src="https://img.shields.io/badge/Email-rizaldyimanputra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/rizaldy-iman-putra-a17b0317a/"><img src="https://img.shields.io/badge/LinkedIn-Rizaldy%20Iman%20Putra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rizaldyip10&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-Front-end Development Stack:\
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#) [![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff)](#) [![React Table](https://img.shields.io/badge/React%20Table-FF4154?logo=reacttable&logoColor=fff)](#) [![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](#) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) [![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?logo=strapi&logoColor=white)](#) [![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff)](#) [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+---
 
-Back-end Development Stack:\
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#) [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white)](#)
+## 👋 About Me
 
-Other:\
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](#) [![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)](#) [![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#) [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#) [![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#) [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](#) [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#) [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#) [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#) [![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)](#)
+I'm a fullstack developer working mainly with **TypeScript** and **Java**. On the frontend I build with **React** and **Next.js**; on the backend I use **Express.js**, **NestJS**, and **Spring Boot**.
 
-### 👤 Contact Information
-Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com) rizaldyimanputra@gmail.com\
-LinkedIn: [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizaldy-iman-putra-a17b0317a/) Rizaldy Iman Putra
+- 🎓 Studying for a **Master's in Software Engineering** at Universiti Teknologi Malaysia (UTM)
+- 🔬 Thesis: **multi-objective, search-based test case prioritization** to improve fault detection in agile teams (Python)
+- 💼 Previously interned at **Dynamics Management Solutions**, building a job portal for hospitality workers (Java and JavaScript)
+- 🏫 Bootcamp graduate of **Purwadhika Digital School**
+- 🤝 Open to **job opportunities** and **collaboration**
 
-Feel free to contact for job opportunities or colaboration!
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizaldyip10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Tech Stack
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rizaldyip10&theme=dark)](https://git.io/streak-stats) 
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,go,solidity&theme=dark" alt="Languages" />
+</p>
 
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,redux,html,css&theme=dark" alt="Frontend" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/TanStack%20Table-FF4154?style=flat-square&logo=reacttable&logoColor=white" alt="TanStack Table" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" alt="DaisyUI" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,graphql&theme=dark" alt="Backend" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" />
+</p>
+
+**Databases & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github&theme=dark" alt="Databases and DevOps" />
+</p>
+
+**Tools & Testing**
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,postman,idea,vscode,bun,yarn&theme=dark" alt="Tools" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizaldyip10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizaldyip10&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=rizaldyip10&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rizaldyip10&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution graph" />
+</p>
+
+---
+
+<p align="center">
+  <i>Feel free to reach out about job opportunities or collaboration!</i>
+</p>
+
+<!-- Footer banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
+</p>
